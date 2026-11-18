@@ -1,2 +1,3 @@
 print("hyy")
 python
+computer
